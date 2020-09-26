@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Андрей Шкаленко](https://up.htmlacademy.ru/javascript/21/user/385199).
-* Наставник: `Неизвестно`.
+* Наставник: [Анатолий Пазюк](https://up.htmlacademy.ru/adaptive/20/user/380487).
 
 ---
 
